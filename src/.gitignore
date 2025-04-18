@@ -1,0 +1,10 @@
+# Ignorar pastas de build
+bin/
+target/
+out/
+
+# Ignorar arquivos de IDE
+.idea/
+*.iml
+*.class
+*.log
